@@ -42,5 +42,5 @@ public class NumberGame {
         }
          o.close();
     }
-    
+return 0;    
 }
